@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\richhTextBox\bin\Debug\richhTextBox.exe.config
+C:\Users\ucenik\source\repos\richhTextBox\bin\Debug\richhTextBox.exe
+C:\Users\ucenik\source\repos\richhTextBox\bin\Debug\richhTextBox.pdb
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.Form1.resources
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.Properties.Resources.resources
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.exe
+C:\Users\ucenik\source\repos\richhTextBox\obj\Debug\richhTextBox.pdb
